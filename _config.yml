@@ -21,7 +21,7 @@
 title: كيزاكو
 email: contact@kizako.com
 description: >- # this means to ignore newlines until "baseurl:"
- Description here
+ عن التجارة الإلكترونية نتحدث
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kizako.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
